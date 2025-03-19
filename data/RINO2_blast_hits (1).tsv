@@ -1,0 +1,27 @@
+qseqid	sacc	pident	length	mismatch	evalue	bitscore	stitle
+NODE_1_length_2122_cov_17.810526	KM209255	85.363	1995	251	0.0	2028	Dickeya phage phiDP10.3 clone pD10.contig.26_1 genomic sequence
+NODE_2_length_1428_cov_22.654881	KM209255	86.067	1012	123	0.0	1072	Dickeya phage phiDP10.3 clone pD10.contig.26_1 genomic sequence
+NODE_2_length_1428_cov_22.654881	KM209255	82.123	537	84	1.29e-121	449	Dickeya phage phiDP10.3 clone pD10.contig.26_1 genomic sequence
+NODE_2_length_1428_cov_22.654881	KM209255	95.522	67	3	8.94e-19	108	Dickeya phage phiDP10.3 clone pD10.contig.26_1 genomic sequence
+NODE_3_length_1140_cov_4.167818	KY369890	97.975	1136	23	0.0	1971	Rhinovirus A47 strain SC122, complete genome
+NODE_4_length_1025_cov_3.996659	KY369890	96.976	1025	31	0.0	1722	Rhinovirus A47 strain SC122, complete genome
+NODE_5_length_1013_cov_2.940181	KY369890	98.182	935	17	0.0	1633	Rhinovirus A47 strain SC122, complete genome
+NODE_5_length_1013_cov_2.940181	KY369890	100.000	85	0	6.15e-34	158	Rhinovirus A47 strain SC122, complete genome
+NODE_6_length_880_cov_2.354582	KY369890	97.159	880	25	0.0	1487	Rhinovirus A47 strain SC122, complete genome
+NODE_8_length_727_cov_0.541667	MT947439	96.881	481	15	0.0	806	Protaetiibacter phage SSC1, complete genome
+NODE_10_length_609_cov_1.043568	MZ092003	84.354	588	91	8.41e-160	575	Paenibacillus phage Pd_22F, complete genome
+NODE_11_length_608_cov_1.968815	KY369890	98.191	608	11	0.0	1062	Rhinovirus A47 strain SC122, complete genome
+NODE_12_length_584_cov_1.929978	OP561375	98.438	576	9	0.0	1014	Rhinovirus A isolate SA20180389 VP1 gene, partial cds
+NODE_13_length_531_cov_0.883663	KM209255	81.075	465	71	1.03e-93	355	Dickeya phage phiDP10.3 clone pD10.contig.26_1 genomic sequence
+NODE_14_length_529_cov_7.184080	KM209318	80.707	368	53	3.83e-68	270	Dickeya phage phiDP23.1 clone pD23.contig.44_1 genomic sequence
+NODE_14_length_529_cov_7.184080	KM209318	94.872	39	2	2.51e-05	62.1	Dickeya phage phiDP23.1 clone pD23.contig.44_1 genomic sequence
+NODE_15_length_526_cov_3.110276	KY369890	98.092	524	10	0.0	913	Rhinovirus A47 strain SC122, complete genome
+NODE_16_length_484_cov_2.053221	KM209277	95.011	461	23	0.0	725	Dickeya phage phiDP23.1 clone pD23.contig.3_1 genomic sequence
+NODE_18_length_472_cov_2.944928	KM209255	91.479	399	31	5.03e-151	545	Dickeya phage phiDP10.3 clone pD10.contig.26_1 genomic sequence
+NODE_18_length_472_cov_2.944928	KM209255	97.727	44	1	7.94e-10	76.8	Dickeya phage phiDP10.3 clone pD10.contig.26_1 genomic sequence
+NODE_19_length_466_cov_0.949853	AF065755	84.314	408	56	6.84e-105	392	Stealth virus 1 clone 3B43 T3
+NODE_20_length_453_cov_0.723926	OL774863	100.000	62	0	1.61e-21	115	Lassa mammarenavirus strain Mali 2009 segment S, complete sequence
+NODE_24_length_428_cov_1.860465	KM209255	95.338	429	16	0.0	678	Dickeya phage phiDP10.3 clone pD10.contig.26_1 genomic sequence
+NODE_24_length_428_cov_1.860465	KM209255	91.573	178	10	2.39e-59	241	Dickeya phage phiDP10.3 clone pD10.contig.26_1 genomic sequence
+NODE_25_length_417_cov_0.734483	MT947439	98.082	417	8	0.0	726	Protaetiibacter phage SSC1, complete genome
+NODE_26_length_384_cov_1.147860	KM209318	91.986	287	23	2.56e-108	403	Dickeya phage phiDP23.1 clone pD23.contig.44_1 genomic sequence
