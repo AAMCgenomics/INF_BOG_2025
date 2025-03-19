@@ -1,2 +1,2 @@
 # INF_BOG_2025
-repository for notebooks for training
+notebooks and data repository for training
